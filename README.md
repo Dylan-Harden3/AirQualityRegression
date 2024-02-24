@@ -1,4 +1,4 @@
-### Setup/Instalation
+### Setup/Installation
 You can run the Regression.ipynb on colab or any jupyter notebook environment.
 
 ### Approach
